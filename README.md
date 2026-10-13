@@ -521,7 +521,6 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Vector Databases</strong></summary>
 
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
-- [kavel-image](https://github.com/hanshs474/kavel-image-skill) - Generate an image from a prompt with no API key and no account, through Kavel's anonymous endpoint (1K, watermarked, small free allowance). Photo edits and video need a Kavel API key, and the skill says so instead of attempting them. *By [@hanshs474](https://github.com/hanshs474)*
 </details>
 
 <details>
@@ -540,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [hanshs474/kavel-image-skill](https://github.com/hanshs474/kavel-image-skill) - Generate images from a prompt with no API key or account
 </details>
 
 <details>
